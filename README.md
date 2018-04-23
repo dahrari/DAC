@@ -10,7 +10,7 @@ My friend started a business and needs a web store. Of course he needs a solid d
 
 ### How to use
 
-1. Download [DomainAvailabilityChecker.exe](https://github.com/dahrari/DAC/blob/master/DomainAvailabilityChecker/bin/Debug/DomainAvailabilityChecker.exe) and place it anywhere you wish.
+1. Download [DomainAvailabilityChecker.exe](https://github.com/dahrari/DAC/raw/master/DomainAvailabilityChecker/bin/Debug/DomainAvailabilityChecker.exe) and place it anywhere you wish.
 2. Run the executable.
 3. ???
 4. Profit.
